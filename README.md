@@ -97,6 +97,7 @@ Cars/
 | `Subscriptions` | Web Push subscription management |
 ---
 ## Infrastructure
+
 ```yaml
 # Automated CI/CD on every push to main
 - Build .NET solution
@@ -122,8 +123,8 @@ PUT    /travels/{id}/complete
 GET    /reports/costs-by-period
 GET    /reports/driver-performance
 GET    /reports/fleet-utilization
-GET    /dashboard
-
+GET    /dashboard 
+```
 ## Contact
 
 **Anderson Luiz de Almeida** — Backend Developer | .NET · Clean Architecture · Docker

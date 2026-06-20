@@ -125,13 +125,14 @@ GET    /reports/driver-performance
 GET    /reports/fleet-utilization
 GET    /dashboard 
 ```
+---
+
 ## Contact
 
 **Anderson Luiz de Almeida** — Backend Developer | .NET · Clean Architecture · Docker
 
-<a href="https://linkedin.com/in/anderson-luiz-almeida">
-  <img src="https://img.shields.io/badge/LinkedIn-anderson_luiz_almeida-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-luiz-almeida)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AndersonLuizdeAlmeid)
 &nbsp;
 <a href="https://github.com/AndersonLuizdeAlmeid">
   <img src="https://img.shields.io/badge/GitHub-AndersonLuizdeAlmeid-181717?style=flat-square&logo=github&logoColor=white" />

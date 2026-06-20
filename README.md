@@ -127,5 +127,5 @@ Contact
 Anderson Luiz de Almeida
 Backend Developer | .NET · Clean Architecture · Docker
 
-Mostrar Imagem
-Mostrar Imagem
+https://img.shields.io/badge/LinkedIn-anderson--luiz--almeida-0A66C2?style=flat-square&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-AndersonLuizdeAlmeid-181717?style=flat-square&logo=github&logoColor=white
